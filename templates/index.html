@@ -1,14 +1,16 @@
 {% extends 'base.html' %}
 {% block title %}index page of goodness {% endblock %}
 {% block bodycontainer %}
-<div class="container">
+<div class="container alert-container">
     {% with messages = get_flashed_messages() %}
         {% if messages %}
-            <ul class="flash-info">
-                {% for message in messages %}
-                    <li class="bordered-list">{{ message }}</li>
-                {% endfor %}
-            </ul>
+            {% for message in messages %}
+                <!-- https://stackoverflow.com/questions/31642748/bootstrap-content-smooth-slideup-when-closing-alert/31652146#31652146 -->
+                <div class="alert alert-success" role="alert">
+                    <button type="button" class="close" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <span>{{ message }}</span>
+                </div>
+            {% endfor %}
         {% endif %}
     {% endwith %}
 </div>

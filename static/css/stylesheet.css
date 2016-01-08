@@ -1,18 +1,13 @@
-.button-surround {
-    margin-top:20px;
-}
-
-li flash-info {
-    border-left-width: thin;
-    border-top-width: thick;
-}
-
 ul.flash-info {
     list-style: none;
     padding: 0;
 }
 
 .bordered-list {
+    margin: 10px 0px;
     border: 1px solid darkblue;
 }
 
+.alert-container {
+    margin-top:20px;
+}
