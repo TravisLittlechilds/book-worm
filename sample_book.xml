@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+ <body>
+  <goodreadsresponse>
+   <request>
+    <authentication>
+     true
+    </authentication>
+    <key>
+    </key>
+    <method>
+    </method>
+   </request>
+   <reviews end="1" start="1" total="188">
+    <review>
+     <id>
+      355489642
+     </id>
+     <book>
+      <id type="integer">
+       4968078
+      </id>
+      <isbn nil="true">
+      </isbn>
+      <isbn13 nil="true">
+      </isbn13>
+      <text_reviews_count type="integer">
+       4
+      </text_reviews_count>
+      <title>
+       Glimmers: Prologue to Crossroads of Twilight (Wheel of Time, #9.5)
+      </title>
+      <image_url>
+       http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+      </image_url>
+      <small_image_url>
+       http://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+      </small_image_url>
+      <large_image_url>
+      </large_image_url>
+      <link/>
+      http://www.goodreads.com/book/show/4968078-glimmers
+      <num_pages>
+      </num_pages>
+      <format>
+      </format>
+      <edition_information>
+      </edition_information>
+      <publisher>
+      </publisher>
+      <publication_day>
+      </publication_day>
+      <publication_year>
+      </publication_year>
+      <publication_month>
+      </publication_month>
+      <average_rating>
+       4.14
+      </average_rating>
+      <ratings_count>
+       739
+      </ratings_count>
+      <description>
+      </description>
+      <authors>
+       <author>
+        <id>
+         6252
+        </id>
+        <name>
+         Robert Jordan
+        </name>
+        <role>
+        </role>
+        <image_url nophoto="false">
+        </image_url>
+        <small_image_url nophoto="false">
+        </small_image_url>
+        <link/>
+        <average_rating>
+         4.14
+        </average_rating>
+        <ratings_count>
+         1456293
+        </ratings_count>
+        <text_reviews_count>
+         32308
+        </text_reviews_count>
+       </author>
+      </authors>
+      <published>
+      </published>
+     </book>
+     <rating>
+      0
+     </rating>
+     <votes>
+      0
+     </votes>
+     <spoiler_flag>
+      false
+     </spoiler_flag>
+     <spoilers_state>
+      none
+     </spoilers_state>
+     <shelves>
+      <shelf exclusive="true" name="to-read" review_shelf_id="234933498" sortable="true">
+      </shelf>
+     </shelves>
+     <recommended_for>
+     </recommended_for>
+     <recommended_by>
+     </recommended_by>
+     <started_at>
+     </started_at>
+     <read_at>
+     </read_at>
+     <date_added>
+      Mon Jun 25 12:35:05 -0700 2012
+     </date_added>
+     <date_updated>
+      Mon Jun 25 12:35:05 -0700 2012
+     </date_updated>
+     <read_count>
+     </read_count>
+     <comments_count>
+      0
+     </comments_count>
+     <url>
+     </url>
+     <link/>
+     <owned>
+      0
+     </owned>
+    </review>
+   </reviews>
+  </goodreadsresponse>
+ </body>
+</html>

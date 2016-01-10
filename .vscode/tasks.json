@@ -12,7 +12,7 @@
 	"version": "0.1.0",
 
 	// The command is tsc. Assumes that tsc has been installed using npm install -g typescript
-	"command": "python",
+	"command": "/Users/travisli/.virtualenvs/book-worm/bin/python",
 
 	// The command is a shell script
 	"isShellCommand": true,
@@ -27,6 +27,7 @@
 	// in the output.
 	"problemMatcher": "$tsc"
 }
+
 
 // A task runner that calls the Typescript compiler (tsc) and
 // compiles based on a tsconfig.json file that is present in
